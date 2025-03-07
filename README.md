@@ -37,5 +37,3 @@ usar la aplicación:
 
 ## Enlaces
 
-- [Aplicación en Streamlit](https://cookup-tp-final.streamlit.app/)
-- [Repositorio en GitHub](https://github.com/vSheigram/CookUp)
